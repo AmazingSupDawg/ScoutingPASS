@@ -69,7 +69,7 @@ var config_data = `
       "code": "asa",
       "type": "counter"
     },
-    { "name": "Failed Amp score",
+    { "name": "Failed Amp Score",
       "code": "aaa",
       "type": "counter"
     },
@@ -77,7 +77,7 @@ var config_data = `
       "code": "ass",
       "type": "counter"
     },
-	{ "name": "Failed Speaker shot",
+	{ "name": "Failed Speaker Shot",
 	  "code": "aas",
 	  "type": "counter"
 	}
@@ -87,7 +87,7 @@ var config_data = `
       "code": "tsa",
       "type": "counter"
     },
-    { "name": "Attempted in Amp",
+    { "name": "Failed Amp Score",
       "code": "taa",
 	  "type": "counter"
 	},
@@ -95,7 +95,7 @@ var config_data = `
       "code": "tss",
       "type": "counter"
     },
-	{ "name": "Attempted in Speaker",
+	{ "name": "Failed Speaker Shot",
 	  "code": "tas",
 	  "type": "counter"
 	},
