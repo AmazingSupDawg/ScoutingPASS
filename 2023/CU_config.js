@@ -69,7 +69,7 @@ var config_data = `
       "code": "asa",
       "type": "counter"
     },
-    { "name": "Attempted in Amp",
+    { "name": "Failed Amp score",
       "code": "aaa",
       "type": "counter"
     },
@@ -77,7 +77,7 @@ var config_data = `
       "code": "ass",
       "type": "counter"
     },
-	{ "name": "Attempted in Speaker",
+	{ "name": "Failed Speaker shot",
 	  "code": "aas",
 	  "type": "counter"
 	}
@@ -120,10 +120,6 @@ var config_data = `
     }
   ],
   "endgame": [
-    { "name": "Stage Timer",
-      "code": "dt",
-      "type": "timer"
-    },
     { "name": "Final Status",
       "code": "fs",
       "type":"radio",
