@@ -15,8 +15,8 @@ var config_data = `
       "code": "e",
       "type": "event",
       "defaultValue": "2024mirr",
-      "required": "true",
-      "disabled": "true"
+      "required": "false",
+      "disabled": "false"
     },
     { "name": "Match Level",
       "code": "l",
